@@ -1,0 +1,26 @@
+# Kitchener HVAC Pros
+
+> Kitchener HVAC Pros is a local HVAC company serving Kitchener, Waterloo Region, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 745-2083  |  Email: contact@kitchenerhvacpros.ca  |  Website: https://kitchenerhvacpros.ca
+
+Service areas: Kitchener, Cambridge, Waterloo, Elmira, Listowel, New Hamburg, Baden, Breslau
+
+## Key pages
+
+- [Home](https://kitchenerhvacpros.ca/): Kitchener HVAC Pros homepage with service overview and FAQ
+- [About](https://kitchenerhvacpros.ca/about/): About the company and service area
+- [Contact](https://kitchenerhvacpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://kitchenerhvacpros.ca/services/furnace-repair/): Furnace Installation & Repair in Kitchener, Ontario
+- [AC Installation & Repair](https://kitchenerhvacpros.ca/services/ac-repair/): AC Installation & Repair in Kitchener, Ontario
+- [Heat Pumps](https://kitchenerhvacpros.ca/services/heat-pump-repair-installation/): Heat Pumps in Kitchener, Ontario
+- [Duct Cleaning](https://kitchenerhvacpros.ca/services/duct-cleaning/): Duct Cleaning in Kitchener, Ontario
+- [Thermostats](https://kitchenerhvacpros.ca/services/thermostat-repair-replacement/): Thermostats in Kitchener, Ontario
+- [Ductless AC Installation](https://kitchenerhvacpros.ca/services/ductless-ac-installation/): Ductless AC Installation in Kitchener, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Kitchener are answered on the homepage.
